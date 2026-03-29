@@ -1,19 +1,57 @@
-About Me:
 
-My name is Himanshu, and I am currently pursuing M.Tech in CSE / Cyber Security from VIT Bhopal University. I am a 1st-year student with a strong interest in learning new technologies, improving my technical knowledge, and developing essential professional skills for the future.
+# Hi there 👋, I'm Himanshu Singla
 
-My Goal:
+🎓 **M.Tech Cyber Security Student**  
+💻 Passionate about **Technology, Cyber Security, and Learning New Skills**  
+🌱 Currently learning **Python, Linux, Networking, and Git/GitHub**  
+🚀 Interested in **Cyber Security, Ethical Hacking, and Digital Forensics**  
 
-My goal is to make the most of my college journey by building a strong foundation in programming, digital tools, and professional development. I aim to enhance both my technical and personal skills so that I can grow into a confident and capable professional.
+---
 
-Skills I Want to Build:
+## 🧑‍💻 About Me
+- 🔐 Exploring the world of **Cyber Security**
+- 📚 Learning through **projects and practical work**
+- 💡 Interested in **problem solving and technical tools**
+- 🎯 Goal: To become a skilled **Cyber Security Professional**
 
-During my academic journey, I would like to develop the following skills:
+---
 
-Coding and problem-solving
-Effective communication
-Teamwork and collaboration
-Cyber safety and digital awareness
+## 🛠️ Skills
+- 💻 Python, C, C++
+- 🌐 HTML, CSS, JavaScript
+- 🐧 Linux
+- 🔗 Git & GitHub
+- 🗄️ SQL
+- 🛡️ Cyber Security Basics
+
+---
+
+## 📌 Projects
+- 🔐 Password Strength Checker  
+- 🌐 Personal Portfolio Website  
+- 🛡️ Cyber Awareness Project  
+- 📘 Academic / Technical Assignments  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 📊 [Kaggle](https://www.kaggle.com/)
+- 💬 [Stack Overflow](https://stackoverflow.com/)
+
+> *Learning, building, and growing one step at a time 🚀*
 
 
 
