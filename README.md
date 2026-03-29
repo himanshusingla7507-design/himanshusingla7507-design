@@ -1,16 +1,20 @@
-## Hi there 👋
+About Me:
 
-<!--
-**himanshusingla7507-design/himanshusingla7507-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Himanshu, and I am currently pursuing M.Tech in CSE / Cyber Security from VIT Bhopal University. I am a 1st-year student with a strong interest in learning new technologies, improving my technical knowledge, and developing essential professional skills for the future.
 
-Here are some ideas to get you started:
+My Goal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to make the most of my college journey by building a strong foundation in programming, digital tools, and professional development. I aim to enhance both my technical and personal skills so that I can grow into a confident and capable professional.
+
+Skills I Want to Build:
+
+During my academic journey, I would like to develop the following skills:
+
+Coding and problem-solving
+Effective communication
+Teamwork and collaboration
+Cyber safety and digital awareness
+
+
+
+
