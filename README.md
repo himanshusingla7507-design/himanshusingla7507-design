@@ -46,9 +46,9 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn]https://www.linkedin.com/in/himanshu-singla-94641637b/
-- 🐙 [GitHub]
-- 💬 [Stack Overflow](https://stackoverflow.com/)
+- 💼 [LinkedIn] https://www.linkedin.com/in/himanshu-singla-94641637b/
+- 🐙 [GitHub] https://github.com/himanshusingla7507-design/himanshusingla7507-design/blob/main/README.md
+- 💬 [Stack Overflow] (https://stackoverflow.com/)
 
 > *Learning, building, and growing one step at a time 🚀*
 
